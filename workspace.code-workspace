@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\SedeVirtual"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "paginaDana"
+	}
+}
