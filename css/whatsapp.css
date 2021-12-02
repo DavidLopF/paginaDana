@@ -21,3 +21,7 @@
 .my-float{
 	margin-top:16px;
 }
+
+.card{
+	box-shadow: 0px 10px 10px -6px black ;
+}
